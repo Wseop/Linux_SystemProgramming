@@ -43,6 +43,8 @@ int FindKeyword(char* file_name, char* keyword) {
 	return matched;
 }
 
+// show list of files include keyword
+// then, execute user-selected file in vim
 int main(int argc, char* argv[]) {
 	FILE* fp;
 	char file_list[FILE_NUM][STR_LEN];
