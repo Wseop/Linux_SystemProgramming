@@ -1,6 +1,6 @@
 # Linux_SystemProgramming
 시스템 프로그래밍 수업 중 작성한 코드입니다.
-## 1. Execlp
+## 1. Execlp 
 ### 1.1 구현내용
 git repository에 있는 파일들을 검색하여 vim으로 실행시켜준다.
 ### 1.2 사용방법
